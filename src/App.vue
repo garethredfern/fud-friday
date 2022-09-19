@@ -13,6 +13,7 @@ import Ghost from "./components/Ghost.vue";
         <div class="text-center mt-5">
           <h1 class="text-6xl">#FUDFRIDAY</h1>
           <h2 class="text-4xl text-yellow-100">#WAGBOO</h2>
+          <p>10th June 2022</p>
         </div>
       </div>
     </div>
